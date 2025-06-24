@@ -1,0 +1,47 @@
+
+C#  ile restaurant  Otomasyonu
+
+
+Garson Giriþi Ýçin;
+
+kullanýcý adý: mert
+þifre: 0101
+----
+Yönetici Giriþi Ýçin;
+
+kullanýcý adý: bilal	
+þifre: 6767
+--- 
+Müþteri Giriþi için;
+
+kullanýcý adý: samet	
+þifre: 0202
+
+ Restoran Otomasyon Sistemi
+
+Bu proje, bir restoranýn sipariþ alma, masa yönetimi,gelir gider yönetimi ve personel yönetimi iþlemlerini kolaylaþtýrmak amacýyla C# dili kullanýlarak geliþtirilmiþ bir otomasyon sistemidir.
+
+  Kullanýlan Teknolojiler
+
+- C# (Windows Forms )
+- .NET Framework / .NET Core
+- SQL Server (Veri Tabaný)
+- Visual Studio
+
+ Özellikler
+
+-  Masa Seçimi ve Takibi  
+-  Sipariþ Alma ve Güncelleme  
+-  Fiyatlandýrma ve Hesaplama  
+-  Kullanýcý Rolleri (Garson, Müþteri, Yönetici)  
+-  Ürün Yönetimi (Menü Ekleme, personel ekleme, gelir/gider yönetme)  
+-  Giriþ Paneli (Rol Bazlý Giriþ)
+
+
+
+ Kurulum ve Çalýþtýrma
+
+Bu projeyi Visual Studio ile açýn.Herhangi bir eklenti kurulumu olmadan çalýþtýrabilirsiniz.
+
+
+
